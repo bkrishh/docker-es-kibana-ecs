@@ -1,6 +1,6 @@
 # ElasticSearch/Kibana on Docker (ECS)
 
-Run the latest version of the [Elastic stack][elk-stack] with Docker and Docker Compose.
+Elasticsearch and Kibana with Docker and Docker Compose on AWS ECS (Elastic Container Service)
 
 It gives you the ability to analyze any data set by using the searching/aggregation capabilities of Elasticsearch and
 the visualization power of Kibana.
